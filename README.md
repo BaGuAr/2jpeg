@@ -2,7 +2,7 @@
 What is this? -> chrome extension
 How it work? -> Replaces img to jpg with using Image(). gets all img tag and convert them to jpg and replace src :)
 Why You'll not uplaod it to chrome extension store? -> Developers need to pay 5$ for register chrome extension store account. I won't to pay.
-#Author 
+# Author 
 BaGuAr(me)
 and I copyed to use https://github.com/tomaszs/webp-to-jpg for convert images... thanks!!
 # How to use
