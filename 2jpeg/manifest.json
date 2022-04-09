@@ -1,0 +1,9 @@
+{
+	"name": "2Jpeg",
+	"manifest_version": 3,
+	"version": "0.0.1",
+	"permissions": ["activeTab","scripting","tabs"],
+	"action": {
+        "default_popup": "popup.html"
+    }
+}
